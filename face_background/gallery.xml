@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gallery>
+  <image>
+    <name>brac.jpg</name>
+    <x>59%</x>
+    <y>-250px</y>
+  </image>
+  <image>
+    <name>roots.jpg</name>
+    <x>50%</x>
+    <y>0px</y>
+  </image>
+</gallery>

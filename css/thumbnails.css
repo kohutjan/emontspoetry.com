@@ -1,0 +1,12 @@
+figcaption {
+  font-family: 'Roboto';
+}
+
+figure {
+  background-color: #fcfcfc;
+}
+
+.border-3 {
+	border-style: solid !important;
+	border-width: 3px !important;
+}

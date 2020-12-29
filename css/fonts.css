@@ -1,0 +1,10 @@
+.poems-font {
+	font-size: 110%;
+	font-weight: 400;
+	font-family: Roboto;
+}
+
+.justify {
+  text-align: justify;
+  text-justify: inter-word;
+}

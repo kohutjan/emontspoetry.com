@@ -1,0 +1,32 @@
+.portrait {
+	background-image: url("/about/images/portrait_crop.jpeg");
+	height: 38vh;
+	background-position: 85% 0%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+.poetry {
+	background-image: url("/about/professions/poetry_small.png");
+	height: auto;
+	background-position: 50% 50%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	max-width: 100%;
+}
+
+.photography {
+	background-image: url("/about/images/photography_crop.jpg");
+	height: 38vh;
+	background-position: 50% 0%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+.hdl {
+    font-family: 'Alegreya Sans SC',monospace;
+    font-size: 300%;
+    color: black;
+}
